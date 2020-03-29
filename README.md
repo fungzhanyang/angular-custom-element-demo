@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Description
 
-Demo to use @angular/elements ang ngx-build-plus to build the custom element to work in any framework!
+Demo to use @angular/elements and ngx-build-plus to build the custom element to work in any framework!
 
 ## Build custom element
 
